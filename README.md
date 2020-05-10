@@ -18,7 +18,7 @@ I also found that a Random Forest algorithm can predict AirBnB prices with an ac
 
 ### Files:
 The project contains a Jupyter notebook where all the technical sides of the project has been conducted,
-A blogpost on Medium --> ![Here](https://medium.com/@harshit.prajapati411999/using-data-to-understand-airbnb-rentals-in-seattle-20c3fe135c81?source=your_stories_page---------------------------)
+A blogpost on Medium --> [Here](https://medium.com/@harshit.prajapati411999/using-data-to-understand-airbnb-rentals-in-seattle-20c3fe135c81?source=your_stories_page---------------------------)
 A folder with the raw data and this readme file.
 
 
